@@ -1,0 +1,1 @@
+Component "Terminal" for CMS Instant, official site http://www.instantcms.ru
